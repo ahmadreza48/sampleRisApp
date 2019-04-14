@@ -1,0 +1,2018 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "New JSON Schema",
+  "description": "RisApp - New JSON Schema",
+  "type": "object",
+  "required": [],
+  "properties": {
+    "layoutgridcontainer7": {
+      "type": "ui:layoutgridcontainer",
+      "isgrid": true,
+      "width": "12",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "height": "fit-content",
+      "properties": {
+        "layout5e106": {
+          "type": "ui:layoutgriditem",
+          "height": "2",
+          "properties": {
+            "layoutgridcontainer4": {
+              "type": "ui:layoutgridcontainer",
+              "isgrid": true,
+              "width": "12",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "height": "fit-content",
+              "properties": {
+                "layout6w210": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "layoutgridcontainer8": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout3w28": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {},
+                          "orderIndex": "3"
+                        },
+                        "layout3w29": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "buttoncloned4": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "btn2",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "icon": "exit_to_app",
+                              "mini": true,
+                              "focusByEnter": true
+                            }
+                          },
+                          "orderIndex": "2"
+                        },
+                        "layout3w30": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "buttoncloned3": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "btn2",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "icon": "update",
+                              "mini": true,
+                              "focusByEnter": true
+                            }
+                          },
+                          "orderIndex": "1"
+                        }
+                      },
+                      "name": "layoutgridcontainer8",
+                      "numberOfGridLayout": "3"
+                    }
+                  },
+                  "orderIndex": "6"
+                },
+                "layout6w211": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "layoutgridcontainer9": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout3w28": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "buttoncloned2": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "btn2",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "icon": "add",
+                              "mini": true,
+                              "focusByEnter": true
+                            }
+                          },
+                          "orderIndex": "3"
+                        },
+                        "layout3w29": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "buttoncloned1": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "btn2",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "icon": "edit",
+                              "mini": true,
+                              "focusByEnter": true
+                            }
+                          },
+                          "orderIndex": "2"
+                        },
+                        "layout3w30": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "button10": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "btn2",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "icon": "search",
+                              "mini": true,
+                              "focusByEnter": true
+                            }
+                          },
+                          "orderIndex": "1"
+                        }
+                      },
+                      "name": "layoutgridcontainer9",
+                      "numberOfGridLayout": "3"
+                    }
+                  },
+                  "orderIndex": "5"
+                },
+                "layout6w212": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {},
+                  "orderIndex": "4"
+                },
+                "layout6w213": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {},
+                  "orderIndex": "3"
+                },
+                "layout6w214": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "layoutgridcontainer7": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout3w28": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {},
+                          "orderIndex": "2"
+                        },
+                        "layout3w29": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {},
+                          "orderIndex": "3"
+                        },
+                        "layout3w30": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "button6": {
+                              "type": "ui:button",
+                              "title": "جستجو",
+                              "displayType": "outlined",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "searchbtn",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false,
+                              "mini": false,
+                              "icon": "search",
+                              "iconPosition": "before",
+                              "tooltipPosition": "right"
+                            }
+                          },
+                          "md": "6",
+                          "sm": "6",
+                          "overflow": "unset",
+                          "whitespace": "unset",
+                          "textAlign": "center",
+                          "borderStyle": "none",
+                          "orderIndex": "1"
+                        }
+                      },
+                      "name": "layoutgridcontainer7",
+                      "numberOfGridLayout": "3"
+                    }
+                  },
+                  "orderIndex": "2"
+                },
+                "layout6w215": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "textbox5": {
+                      "type": "ui:textbox",
+                      "title": "شماره مصوبه",
+                      "fullWidth": true,
+                      "yieldFocusOnEnterToNext": false,
+                      "titlerequired": " ",
+                      "uiFieldType": "number",
+                      "tabIndex": "",
+                      "name": "box1",
+                      "hasValidation": false,
+                      "isValid": true,
+                      "errorMessage": "",
+                      "textAlign": "right"
+                    }
+                  },
+                  "sm": "9",
+                  "textAlign": "right",
+                  "position": "right",
+                  "orderIndex": "1"
+                }
+              },
+              "name": "layoutgridcontainer4",
+              "numberOfGridLayout": "6",
+              "paddedBlock": true
+            }
+          },
+          "xs": "12"
+        },
+        "layout5e107": {
+          "type": "ui:layoutgriditem",
+          "height": "2",
+          "properties": {},
+          "paddedBlock": true,
+          "xs": "12"
+        },
+        "layout5e108": {
+          "type": "ui:layoutgriditem",
+          "height": "2",
+          "properties": {
+            "layoutgriditemcloned2": {
+              "type": "ui:layoutgriditem",
+              "height": "fit-content",
+              "properties": {
+                "layoutgridcontainer1": {
+                  "type": "ui:layoutgridcontainer",
+                  "isgrid": true,
+                  "width": "12",
+                  "flexDirection": "column",
+                  "flexWrap": "nowrap",
+                  "height": "fit-content",
+                  "properties": {
+                    "layout3e5": {
+                      "type": "ui:layoutgriditem",
+                      "height": "fit-content",
+                      "properties": {
+                        "label14": {
+                          "type": "ui:label",
+                          "name": "label14",
+                          "hasValidation": false,
+                          "isValid": true,
+                          "errorMessage": "",
+                          "defaultValue": "مشخصات  مصوبه",
+                          "direction": "rtl",
+                          "textColor": "default",
+                          "typographyMode": "headline",
+                          "fontWeight": "bold"
+                        },
+                        "layoutgridcontainer2": {
+                          "type": "ui:layoutgridcontainer",
+                          "isgrid": true,
+                          "width": "12",
+                          "flexDirection": "row",
+                          "flexWrap": "nowrap",
+                          "height": "fit-content",
+                          "properties": {
+                            "layout2u1": {
+                              "type": "ui:layoutgriditem",
+                              "height": "fit-content",
+                              "properties": {
+                                "textboxcloned1": {
+                                  "type": "ui:textbox",
+                                  "title": "شماره مشتری",
+                                  "fullWidth": false,
+                                  "yieldFocusOnEnterToNext": false,
+                                  "titlerequired": " ",
+                                  "uiFieldType": "text",
+                                  "tabIndex": "",
+                                  "name": "textboxcloned1",
+                                  "hasValidation": false,
+                                  "isValid": true,
+                                  "errorMessage": "",
+                                  "direction": "rtl",
+                                  "labelAlign": "right",
+                                  "textAlign": "right",
+                                  "disabled": true
+                                }
+                              },
+                              "md": "12",
+                              "position": "right",
+                              "textAlign": "right",
+                              "paddedBlock": true,
+                              "orderIndex": "2"
+                            },
+                            "layout2u2": {
+                              "type": "ui:layoutgriditem",
+                              "height": "unset",
+                              "properties": {
+                                "textbox6": {
+                                  "type": "ui:textbox",
+                                  "title": "عنوان گیرنده تسهیلات",
+                                  "fullWidth": false,
+                                  "yieldFocusOnEnterToNext": false,
+                                  "titlerequired": " ",
+                                  "uiFieldType": "text",
+                                  "tabIndex": "",
+                                  "name": "textbox6",
+                                  "hasValidation": false,
+                                  "isValid": true,
+                                  "errorMessage": "",
+                                  "direction": "rtl",
+                                  "labelAlign": "right",
+                                  "textAlign": "right",
+                                  "autoMapKeyboard": "Unset",
+                                  "disabled": true
+                                }
+                              },
+                              "md": "12",
+                              "sm": "unset",
+                              "lg": "11",
+                              "orderIndex": "1",
+                              "overflow": "unset",
+                              "whitespace": "unset",
+                              "paddedBlock": true,
+                              "fixedFooter": false,
+                              "borderColor": "white",
+                              "borderTopWidth": "5",
+                              "borderRightWidth": "5",
+                              "borderBottomWidth": "5",
+                              "borderLeftWidth": "5",
+                              "position": "right",
+                              "textAlign": "right"
+                            }
+                          },
+                          "name": "layoutgridcontainer2",
+                          "numberOfGridLayout": "2",
+                          "className": "mar"
+                        }
+                      }
+                    },
+                    "layout3e6": {
+                      "type": "ui:layoutgriditem",
+                      "height": "fit-content",
+                      "properties": {
+                        "layoutgridcontainer4": {
+                          "type": "ui:layoutgridcontainer",
+                          "isgrid": true,
+                          "width": "12",
+                          "flexDirection": "row",
+                          "flexWrap": "nowrap",
+                          "height": "fit-content",
+                          "properties": {
+                            "layout2u1": {
+                              "type": "ui:layoutgriditem",
+                              "height": "fit-content",
+                              "properties": {
+                                "layoutgridcontainer17": {
+                                  "type": "ui:layoutgridcontainer",
+                                  "isgrid": true,
+                                  "width": "12",
+                                  "flexDirection": "row",
+                                  "flexWrap": "nowrap",
+                                  "height": "fit-content",
+                                  "properties": {
+                                    "layout6w210": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "12",
+                                      "properties": {},
+                                      "orderIndex": "6",
+                                      "xs": "2"
+                                    },
+                                    "layout6w211": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "12",
+                                      "properties": {},
+                                      "orderIndex": "5",
+                                      "xs": "2"
+                                    },
+                                    "layout6w212": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "12",
+                                      "properties": {
+                                        "checkbox15": {
+                                          "type": "ui:checkbox",
+                                          "title": "",
+                                          "yieldFocusOnEnterToNext": false,
+                                          "checkType": "checkbox",
+                                          "tabIndex": "",
+                                          "name": "checkbox15",
+                                          "hasValidation": false,
+                                          "isValid": true,
+                                          "errorMessage": "",
+                                          "editableInChild": false,
+                                          "required": false,
+                                          "disabled": false,
+                                          "isHide": false,
+                                          "defaultValue": false,
+                                          "binary": false,
+                                          "fullWidth": true
+                                        }
+                                      },
+                                      "direction": "rtl",
+                                      "textAlign": "right",
+                                      "position": "right",
+                                      "orderIndex": "4",
+                                      "className": "cls1",
+                                      "xs": "2"
+                                    },
+                                    "layout6w213": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "12",
+                                      "properties": {
+                                        "button13": {
+                                          "type": "ui:button",
+                                          "title": "chang language",
+                                          "displayType": "icon",
+                                          "color": "secondary",
+                                          "tabIndex": "",
+                                          "name": "button13",
+                                          "hasValidation": false,
+                                          "isValid": true,
+                                          "errorMessage": "",
+                                          "mini": true,
+                                          "fullWidth": false,
+                                          "icon": "language"
+                                        }
+                                      },
+                                      "textAlign": "right",
+                                      "position": "right",
+                                      "className": "cls1",
+                                      "orderIndex": "3",
+                                      "xs": "2"
+                                    },
+                                    "layout6w214": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "12",
+                                      "properties": {
+                                        "datetimebox11": {
+                                          "type": "ui:datetimebox",
+                                          "title": "تاریخ اخذ مصوبه",
+                                          "fullWidth": true,
+                                          "autoOk": true,
+                                          "yieldFocusOnEnterToNext": false,
+                                          "valueFormat": "ISO8601",
+                                          "initialValue": "custom",
+                                          "calendarType": "shamsi",
+                                          "pickerType": "date",
+                                          "timeFormat": "ampm",
+                                          "okLabel": "تایید",
+                                          "cancelLabel": "لغو",
+                                          "tabIndex": "",
+                                          "name": "datetimebox11",
+                                          "hasValidation": false,
+                                          "isValid": true,
+                                          "errorMessage": "",
+                                          "value": null,
+                                          "rawValue": null,
+                                          "clearable": true,
+                                          "keyboard": true,
+                                          "showTabs": true,
+                                          "numberFormat": true
+                                        }
+                                      },
+                                      "textAlign": "left",
+                                      "position": "right",
+                                      "orderIndex": "2",
+                                      "xs": "12"
+                                    },
+                                    "layout5": {
+                                      "type": "ui:layoutgriditem",
+                                      "xs": "2",
+                                      "height": "12",
+                                      "properties": {},
+                                      "orderIndex": "5"
+                                    }
+                                  },
+                                  "name": "layoutgridcontainer17",
+                                  "numberOfGridLayout": "6"
+                                }
+                              },
+                              "orderIndex": "2"
+                            },
+                            "layout2u2": {
+                              "type": "ui:layoutgriditem",
+                              "height": "fit-content",
+                              "properties": {
+                                "textboxcloned3": {
+                                  "type": "ui:textbox",
+                                  "title": "نوع تسهیلات",
+                                  "fullWidth": false,
+                                  "yieldFocusOnEnterToNext": false,
+                                  "titlerequired": " ",
+                                  "uiFieldType": "text",
+                                  "tabIndex": "",
+                                  "name": "textboxcloned3",
+                                  "hasValidation": false,
+                                  "isValid": true,
+                                  "errorMessage": "",
+                                  "direction": "rtl",
+                                  "labelAlign": "right",
+                                  "textAlign": "right",
+                                  "autoMapKeyboard": "Unset",
+                                  "disabled": true
+                                }
+                              },
+                              "paddedBlock": true,
+                              "textAlign": "right",
+                              "position": "right",
+                              "orderIndex": "1"
+                            }
+                          },
+                          "name": "layoutgridcontainer4",
+                          "numberOfGridLayout": "2",
+                          "overflow": "unset"
+                        }
+                      },
+                      "overflow": "unset"
+                    },
+                    "layout3e7": {
+                      "type": "ui:layoutgriditem",
+                      "height": "fit-content",
+                      "properties": {
+                        "layoutgridcontainer5": {
+                          "type": "ui:layoutgridcontainer",
+                          "isgrid": true,
+                          "width": "12",
+                          "flexDirection": "row",
+                          "flexWrap": "nowrap",
+                          "height": "fit-content",
+                          "properties": {
+                            "layout2u2": {
+                              "type": "ui:layoutgriditem",
+                              "height": "12",
+                              "properties": {
+                                "layoutgridcontainer19": {
+                                  "type": "ui:layoutgridcontainer",
+                                  "isgrid": true,
+                                  "width": "12",
+                                  "flexDirection": "row",
+                                  "flexWrap": "nowrap",
+                                  "height": "fit-content",
+                                  "properties": {
+                                    "layout3w28": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "fit-content",
+                                      "properties": {},
+                                      "textAlign": "right",
+                                      "position": "right",
+                                      "direction": "rtl",
+                                      "orderIndex": "3"
+                                    },
+                                    "layout3w29": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "fit-content",
+                                      "properties": {
+                                        "labelcloned6": {
+                                          "type": "ui:label",
+                                          "name": "labelcloned6",
+                                          "hasValidation": false,
+                                          "isValid": true,
+                                          "errorMessage": "",
+                                          "defaultValue": "ریال",
+                                          "direction": "rtl",
+                                          "textFormat": "capitalize",
+                                          "typographyMode": "subheading"
+                                        }
+                                      },
+                                      "orderIndex": "2",
+                                      "className": "cls2"
+                                    },
+                                    "layout3w30": {
+                                      "type": "ui:layoutgriditem",
+                                      "height": "fit-content",
+                                      "properties": {
+                                        "textboxcloned5": {
+                                          "type": "ui:textbox",
+                                          "title": "مبلغ تسهیلات منصوب",
+                                          "fullWidth": false,
+                                          "yieldFocusOnEnterToNext": false,
+                                          "titlerequired": " ",
+                                          "uiFieldType": "text",
+                                          "tabIndex": "",
+                                          "name": "textboxcloned5",
+                                          "hasValidation": false,
+                                          "isValid": true,
+                                          "errorMessage": "",
+                                          "direction": "rtl",
+                                          "labelAlign": "right",
+                                          "textAlign": "right",
+                                          "autoMapKeyboard": "Unset",
+                                          "disabled": true
+                                        }
+                                      },
+                                      "textAlign": "right",
+                                      "position": "right",
+                                      "orderIndex": "1"
+                                    }
+                                  },
+                                  "name": "layoutgridcontainer19",
+                                  "numberOfGridLayout": "3"
+                                }
+                              },
+                              "xs": "6",
+                              "orderIndex": "1"
+                            },
+                            "layout1": {
+                              "type": "ui:layoutgriditem",
+                              "xs": "6",
+                              "height": "12",
+                              "properties": {
+                                "layoutgriditemcloned8": {
+                                  "type": "ui:layoutgriditem",
+                                  "height": "fit-content",
+                                  "properties": {
+                                    "layoutgridcontainer17": {
+                                      "type": "ui:layoutgridcontainer",
+                                      "isgrid": true,
+                                      "width": "12",
+                                      "flexDirection": "row",
+                                      "flexWrap": "nowrap",
+                                      "height": "fit-content",
+                                      "properties": {
+                                        "layout6w210": {
+                                          "type": "ui:layoutgriditem",
+                                          "height": "12",
+                                          "properties": {},
+                                          "orderIndex": "6",
+                                          "xs": "2"
+                                        },
+                                        "layout6w211": {
+                                          "type": "ui:layoutgriditem",
+                                          "height": "12",
+                                          "properties": {
+                                            "checkbox15": {
+                                              "type": "ui:checkbox",
+                                              "title": "",
+                                              "yieldFocusOnEnterToNext": false,
+                                              "checkType": "checkbox",
+                                              "tabIndex": "",
+                                              "name": "checkbox15",
+                                              "hasValidation": false,
+                                              "isValid": true,
+                                              "errorMessage": "",
+                                              "editableInChild": false,
+                                              "required": false,
+                                              "disabled": false,
+                                              "isHide": false,
+                                              "defaultValue": false,
+                                              "binary": false,
+                                              "fullWidth": true
+                                            }
+                                          },
+                                          "orderIndex": "4",
+                                          "xs": "2"
+                                        },
+                                        "layout6w212": {
+                                          "type": "ui:layoutgriditem",
+                                          "height": "12",
+                                          "properties": {
+                                            "button13": {
+                                              "type": "ui:button",
+                                              "title": "chang language",
+                                              "displayType": "icon",
+                                              "color": "secondary",
+                                              "tabIndex": "",
+                                              "name": "button13",
+                                              "hasValidation": false,
+                                              "isValid": true,
+                                              "errorMessage": "",
+                                              "mini": true,
+                                              "fullWidth": false,
+                                              "icon": "language"
+                                            }
+                                          },
+                                          "direction": "rtl",
+                                          "textAlign": "right",
+                                          "position": "right",
+                                          "orderIndex": "2",
+                                          "className": "cls1",
+                                          "xs": "2"
+                                        },
+                                        "layout6w213": {
+                                          "type": "ui:layoutgriditem",
+                                          "height": "12",
+                                          "properties": {},
+                                          "textAlign": "right",
+                                          "position": "right",
+                                          "orderIndex": "5",
+                                          "className": "cls1",
+                                          "xs": "2"
+                                        },
+                                        "layout6w214": {
+                                          "type": "ui:layoutgriditem",
+                                          "height": "12",
+                                          "properties": {
+                                            "datetimebox11": {
+                                              "type": "ui:datetimebox",
+                                              "title": "تاریخ اتمام اعتبار",
+                                              "fullWidth": true,
+                                              "autoOk": true,
+                                              "yieldFocusOnEnterToNext": false,
+                                              "valueFormat": "ISO8601",
+                                              "initialValue": "custom",
+                                              "calendarType": "shamsi",
+                                              "pickerType": "date",
+                                              "timeFormat": "ampm",
+                                              "okLabel": "تایید",
+                                              "cancelLabel": "لغو",
+                                              "tabIndex": "",
+                                              "name": "datetimebox11",
+                                              "hasValidation": false,
+                                              "isValid": true,
+                                              "errorMessage": "",
+                                              "value": null,
+                                              "rawValue": null,
+                                              "clearable": true,
+                                              "keyboard": true,
+                                              "showTabs": true,
+                                              "numberFormat": true
+                                            }
+                                          },
+                                          "textAlign": "left",
+                                          "position": "right",
+                                          "orderIndex": "0",
+                                          "xs": "12"
+                                        },
+                                        "layout5": {
+                                          "type": "ui:layoutgriditem",
+                                          "xs": "2",
+                                          "height": "12",
+                                          "properties": {},
+                                          "orderIndex": "7"
+                                        }
+                                      },
+                                      "name": "layoutgridcontainer17",
+                                      "numberOfGridLayout": "6",
+                                      "direction": "rtl",
+                                      "textAlign": "right",
+                                      "position": "right"
+                                    }
+                                  },
+                                  "position": "right",
+                                  "direction": "rtl",
+                                  "md": "12",
+                                  "name": "layoutgriditemcloned8"
+                                }
+                              },
+                              "orderIndex": "2"
+                            }
+                          },
+                          "name": "layoutgridcontainer5",
+                          "numberOfGridLayout": "2"
+                        }
+                      }
+                    }
+                  },
+                  "name": "layoutgridcontainer1",
+                  "numberOfGridLayout": "3"
+                }
+              },
+              "borderStyle": "none",
+              "borderColor": "0",
+              "borderTopWidth": "0",
+              "borderRightWidth": "0",
+              "borderBottomWidth": "0",
+              "borderLeftWidth": "0",
+              "className": "mar",
+              "name": "layoutgriditemcloned2",
+              "paddedBlock": true
+            }
+          },
+          "xs": "12",
+          "borderStyle": "ridge",
+          "borderColor": "lightgray",
+          "borderTopWidth": "5",
+          "borderRightWidth": "5",
+          "borderBottomWidth": "5",
+          "borderLeftWidth": "5"
+        },
+        "layout5e109": {
+          "type": "ui:layoutgriditem",
+          "height": "2",
+          "properties": {
+            "labelcloned9": {
+              "type": "ui:label",
+              "name": "labelcloned9",
+              "hasValidation": false,
+              "isValid": true,
+              "errorMessage": "",
+              "defaultValue": "مشخصات  ضامن/ضامنین",
+              "direction": "rtl",
+              "textColor": "default",
+              "typographyMode": "headline",
+              "fontWeight": "bold"
+            },
+            "layoutgridcontainer1": {
+              "type": "ui:layoutgridcontainer",
+              "isgrid": true,
+              "width": "12",
+              "flexDirection": "column",
+              "flexWrap": "nowrap",
+              "height": "fit-content",
+              "properties": {
+                "layout3e5": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "layoutgridcontainer2": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout4w95": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "combobox3": {
+                              "type": "ui:combobox",
+                              "title": "نوع جستجو",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "itemsSourceValueField": "id",
+                              "itemsSourceLabelField": "title",
+                              "autoSuggestMaxSuggestions": 10,
+                              "titlerequired": " ",
+                              "tabIndex": "",
+                              "name": "searchcom",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "menuDirection": "RTL",
+                              "groups": [
+                                {
+                                  "groupName": "input",
+                                  "fieldName": "search"
+                                }
+                              ]
+                            }
+                          },
+                          "md": "12"
+                        },
+                        "layout4w96": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "textbox4": {
+                              "type": "ui:textbox",
+                              "title": "",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "titlerequired": " ",
+                              "uiFieldType": "text",
+                              "tabIndex": "",
+                              "name": "num",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "groups": [
+                                {
+                                  "groupName": "input",
+                                  "fieldName": "num"
+                                }
+                              ]
+                            }
+                          },
+                          "borderColor": "gray",
+                          "borderTopWidth": "2",
+                          "borderRightWidth": "2",
+                          "borderBottomWidth": "2",
+                          "borderLeftWidth": "2",
+                          "borderStyle": "double",
+                          "className": "",
+                          "paddedBlock": true,
+                          "position": "right",
+                          "direction": "rtl",
+                          "textAlign": "right",
+                          "name": "name"
+                        },
+                        "layout4w97": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "button6": {
+                              "type": "ui:button",
+                              "title": "",
+                              "displayType": "floating",
+                              "color": "secondary",
+                              "tabIndex": "",
+                              "name": "button6",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "mini": true,
+                              "icon": "search"
+                            }
+                          },
+                          "md": "5"
+                        },
+                        "layout4w98": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "layoutgridcontainer7": {
+                              "type": "ui:layoutgridcontainer",
+                              "isgrid": true,
+                              "width": "12",
+                              "flexDirection": "row",
+                              "flexWrap": "nowrap",
+                              "height": "fit-content",
+                              "properties": {
+                                "layout3w28": {
+                                  "type": "ui:layoutgriditem",
+                                  "height": "12",
+                                  "properties": {
+                                    "textboxcloned1": {
+                                      "type": "ui:textbox",
+                                      "title": "نام مشتری",
+                                      "fullWidth": false,
+                                      "yieldFocusOnEnterToNext": false,
+                                      "titlerequired": " ",
+                                      "uiFieldType": "text",
+                                      "tabIndex": "",
+                                      "name": "customname",
+                                      "hasValidation": false,
+                                      "isValid": true,
+                                      "errorMessage": "",
+                                      "direction": "rtl",
+                                      "labelAlign": "right",
+                                      "textAlign": "right",
+                                      "autoMapKeyboard": "Unset",
+                                      "validationType": "",
+                                      "groups": [
+                                        {
+                                          "groupName": "input",
+                                          "fieldName": "customer"
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "xs": "6"
+                                },
+                                "layout3w30": {
+                                  "type": "ui:layoutgriditem",
+                                  "height": "12",
+                                  "properties": {},
+                                  "xs": "6"
+                                }
+                              },
+                              "name": "layoutgridcontainer7",
+                              "numberOfGridLayout": "2"
+                            }
+                          }
+                        }
+                      },
+                      "name": "layoutgridcontainer2",
+                      "numberOfGridLayout": "4"
+                    },
+                    "layoutgridcontainer9": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout6w210": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "textboxcloned2": {
+                              "type": "ui:textbox",
+                              "title": "درآمد ماهیانه",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "titlerequired": " ",
+                              "uiFieldType": "number",
+                              "tabIndex": "",
+                              "name": "salary",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "direction": "rtl",
+                              "labelAlign": "right",
+                              "textAlign": "right",
+                              "autoMapKeyboard": "Unset",
+                              "groups": [
+                                {
+                                  "groupName": "input",
+                                  "fieldName": "salary"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "layout6w211": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "labelcloned3": {
+                              "type": "ui:label",
+                              "name": "labelcloned3",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "defaultValue": "ریال",
+                              "direction": "rtl",
+                              "textFormat": "capitalize",
+                              "typographyMode": "subheading"
+                            }
+                          },
+                          "className": "cls2"
+                        },
+                        "layout6w212": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {}
+                        },
+                        "layout6w213": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "textboxcloned4": {
+                              "type": "ui:textbox",
+                              "title": "مبلغ ضمانت",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "titlerequired": " ",
+                              "uiFieldType": "number",
+                              "tabIndex": "",
+                              "name": "cguaranty",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "direction": "rtl",
+                              "labelAlign": "right",
+                              "textAlign": "right",
+                              "autoMapKeyboard": "Unset",
+                              "groups": [
+                                {
+                                  "fieldName": "guaranty",
+                                  "groupName": "input"
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "layout6w214": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {
+                            "labelcloned5": {
+                              "type": "ui:label",
+                              "name": "labelcloned5",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "defaultValue": "ریال",
+                              "direction": "rtl",
+                              "textFormat": "capitalize",
+                              "typographyMode": "subheading"
+                            }
+                          },
+                          "className": "cls2"
+                        },
+                        "layout6w215": {
+                          "type": "ui:layoutgriditem",
+                          "height": "fit-content",
+                          "properties": {}
+                        }
+                      },
+                      "name": "layoutgridcontainer9",
+                      "numberOfGridLayout": "6"
+                    }
+                  }
+                },
+                "layout3e6": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "layoutgridcontainer10": {
+                      "type": "ui:layoutgridcontainer",
+                      "isgrid": true,
+                      "width": "12",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "height": "fit-content",
+                      "properties": {
+                        "layout6w210": {
+                          "type": "ui:layoutgriditem",
+                          "height": "12",
+                          "properties": {
+                            "combobox9": {
+                              "type": "ui:combobox",
+                              "title": "شماره حساب",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "itemsSourceValueField": "account",
+                              "itemsSourceLabelField": "aboutac",
+                              "autoSuggestMaxSuggestions": 10,
+                              "titlerequired": " ",
+                              "tabIndex": "",
+                              "name": "accountcom",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "groups": [
+                                {
+                                  "groupName": "input",
+                                  "fieldName": "naccount"
+                                },
+                                {
+                                  "groupName": "get",
+                                  "fieldName": "1"
+                                }
+                              ],
+                              "rawValue": [
+                                {
+                                  "describe": "بلند مدت"
+                                }
+                              ],
+                              "isMultiple": false,
+                              "showTitle": true,
+                              "includeValueInSearch": true,
+                              "defaultValue": "",
+                              "editableInChild": false,
+                              "allowedCharacterClass": "Unset"
+                            }
+                          },
+                          "xs": "2"
+                        },
+                        "layout6w212": {
+                          "type": "ui:layoutgriditem",
+                          "height": "12",
+                          "properties": {
+                            "textbox4": {
+                              "type": "ui:textbox",
+                              "title": "شرح نوع حساب",
+                              "fullWidth": true,
+                              "yieldFocusOnEnterToNext": false,
+                              "titlerequired": " ",
+                              "uiFieldType": "text",
+                              "tabIndex": "",
+                              "name": "aboutac",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "groups": [
+                                {
+                                  "groupName": "get",
+                                  "fieldName": "2"
+                                }
+                              ]
+                            }
+                          },
+                          "xs": "2"
+                        },
+                        "layout6w213": {
+                          "type": "ui:layoutgriditem",
+                          "height": "12",
+                          "properties": {
+                            "buttongroup12": {
+                              "type": "ui:buttongroup",
+                              "gap": "10",
+                              "items": [
+                                {
+                                  "name": "checkbtn",
+                                  "title": "",
+                                  "icon": "check",
+                                  "displayType": "icon"
+                                },
+                                {
+                                  "name": "btn2dfdg",
+                                  "title": "",
+                                  "icon": "cancel",
+                                  "displayType": "icon"
+                                }
+                              ],
+                              "tabIndex": "",
+                              "name": "buttongroup12",
+                              "hasValidation": false,
+                              "isValid": true,
+                              "errorMessage": "",
+                              "fullWidth": false
+                            }
+                          },
+                          "xs": "2"
+                        },
+                        "layout6w214": {
+                          "type": "ui:layoutgriditem",
+                          "height": "12",
+                          "properties": {},
+                          "xs": "2"
+                        },
+                        "layout6w215": {
+                          "type": "ui:layoutgriditem",
+                          "height": "12",
+                          "properties": {},
+                          "xs": "2"
+                        },
+                        "layout5": {
+                          "type": "ui:layoutgriditem",
+                          "xs": "2",
+                          "height": "12",
+                          "properties": {}
+                        }
+                      },
+                      "name": "layoutgridcontainer10",
+                      "numberOfGridLayout": "6"
+                    }
+                  }
+                },
+                "layout3e7": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                }
+              },
+              "name": "layoutgridcontainer1",
+              "numberOfGridLayout": "3"
+            }
+          },
+          "borderColor": "lightgray",
+          "borderTopWidth": "5",
+          "borderRightWidth": "5",
+          "borderBottomWidth": "5",
+          "borderLeftWidth": "5",
+          "borderStyle": "ridge",
+          "paddedBlock": true,
+          "xs": "12"
+        },
+        "layout5e110": {
+          "type": "ui:layoutgriditem",
+          "height": "2",
+          "properties": {
+            "datatable13": {
+              "type": "ui:datatable",
+              "title": "",
+              "excelTooltip": "Save as Excel",
+              "printTooltip": "Quick Print",
+              "dialogTooltip": "Open in Dialog",
+              "refreshTooltip": "Refresh",
+              "toolsetCell": "",
+              "displayToolbar": true,
+              "tableType": "plain",
+              "editable": true,
+              "verticalMargin": false,
+              "titleNowrap": true,
+              "displayNewRow": false,
+              "fullWidth": true,
+              "display": true,
+              "displayRemoveButton": true,
+              "displayOpenAsDialog": true,
+              "displaySaveToExcel": true,
+              "displayQuickPrint": true,
+              "titleTextColor": "secondary",
+              "titleTypographyMode": "title",
+              "toolBarIconColor": "secondary",
+              "labelRowsPerPage": "Rows per page:",
+              "labelDisplayedRows": "${from}-${to} of ${count}",
+              "defaultRowsPerPage": "10",
+              "tabIndex": "",
+              "columns": [
+                {
+                  "key": "id1",
+                  "title": "شماره حساب",
+                  "columnType": "text",
+                  "newRowDefaultValue": null,
+                  "calendarType": null,
+                  "columnOrder": null,
+                  "binary": null,
+                  "buttons": [],
+                  "autoSelectAllOnFocus": null,
+                  "calculationExpression": null,
+                  "backgroundColor": null,
+                  "displayType": null,
+                  "showLabels": false,
+                  "autoSuggest": null,
+                  "includeValueInSearch": null,
+                  "autoSuggestMaxSuggestions": null,
+                  "itemsSource": null,
+                  "itemsSourceDataPath": null,
+                  "itemsSourceValueField": null,
+                  "itemsSourceLabelField": null,
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": null,
+                  "items": [],
+                  "evaluateExpressionOnEnter": null,
+                  "endAdornment": null,
+                  "objectDataPath": "",
+                  "displayEmpty": null,
+                  "valueIsNumber": null,
+                  "justDate": null,
+                  "addRowIndexInItems": null,
+                  "grow": null,
+                  "width": null,
+                  "maxLength": null,
+                  "maxValue": null,
+                  "decimalScale": null,
+                  "format": null,
+                  "mask": null,
+                  "minLength": null,
+                  "validationType": null,
+                  "validationPattern": null,
+                  "textAlign": null,
+                  "borderLeftWidth": "",
+                  "borderColor": "",
+                  "maxHeaderLength": null,
+                  "multiLine": null,
+                  "editable": null,
+                  "addable": null,
+                  "required": null,
+                  "unique": null,
+                  "excludeFromValue": null,
+                  "excludeFromExcel": null,
+                  "displaySumInFooter": null,
+                  "thousandSeparator": null,
+                  "withoutNegative": null,
+                  "disableAddRowOnEnter": null,
+                  "AddRowOnEnter": null,
+                  "sortable": null,
+                  "filterable": null,
+                  "instantFooterSumCalc": null,
+                  "hidden": null
+                },
+                {
+                  "key": "id2",
+                  "title": "شرح نوع حساب",
+                  "columnType": "text",
+                  "newRowDefaultValue": null,
+                  "calendarType": null,
+                  "columnOrder": null,
+                  "binary": null,
+                  "buttons": [],
+                  "autoSelectAllOnFocus": null,
+                  "calculationExpression": null,
+                  "backgroundColor": null,
+                  "displayType": null,
+                  "showLabels": false,
+                  "autoSuggest": null,
+                  "includeValueInSearch": null,
+                  "autoSuggestMaxSuggestions": null,
+                  "itemsSource": null,
+                  "itemsSourceDataPath": null,
+                  "itemsSourceValueField": "",
+                  "itemsSourceLabelField": null,
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": null,
+                  "items": [],
+                  "evaluateExpressionOnEnter": null,
+                  "endAdornment": null,
+                  "objectDataPath": null,
+                  "displayEmpty": null,
+                  "valueIsNumber": null,
+                  "justDate": null,
+                  "addRowIndexInItems": null,
+                  "grow": null,
+                  "width": null,
+                  "maxLength": null,
+                  "maxValue": null,
+                  "decimalScale": null,
+                  "format": null,
+                  "mask": null,
+                  "minLength": null,
+                  "validationType": null,
+                  "validationPattern": null,
+                  "textAlign": null,
+                  "borderLeftWidth": null,
+                  "borderColor": null,
+                  "maxHeaderLength": null,
+                  "multiLine": null,
+                  "editable": null,
+                  "addable": null,
+                  "required": null,
+                  "unique": null,
+                  "excludeFromValue": null,
+                  "excludeFromExcel": null,
+                  "displaySumInFooter": null,
+                  "thousandSeparator": null,
+                  "withoutNegative": null,
+                  "disableAddRowOnEnter": null,
+                  "AddRowOnEnter": null,
+                  "sortable": null,
+                  "filterable": null,
+                  "instantFooterSumCalc": null,
+                  "hidden": null
+                },
+                {
+                  "key": "num",
+                  "title": "شماره مشتری",
+                  "columnType": "text",
+                  "newRowDefaultValue": null,
+                  "calendarType": null,
+                  "columnOrder": null,
+                  "binary": null,
+                  "buttons": [],
+                  "autoSelectAllOnFocus": null,
+                  "calculationExpression": null,
+                  "backgroundColor": null,
+                  "displayType": null,
+                  "showLabels": false,
+                  "autoSuggest": null,
+                  "includeValueInSearch": null,
+                  "autoSuggestMaxSuggestions": null,
+                  "itemsSource": null,
+                  "itemsSourceDataPath": null,
+                  "itemsSourceValueField": null,
+                  "itemsSourceLabelField": null,
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": null,
+                  "items": [],
+                  "evaluateExpressionOnEnter": null,
+                  "endAdornment": null,
+                  "objectDataPath": null,
+                  "displayEmpty": null,
+                  "valueIsNumber": null,
+                  "justDate": null,
+                  "addRowIndexInItems": null,
+                  "grow": null,
+                  "width": null,
+                  "maxLength": null,
+                  "maxValue": null,
+                  "decimalScale": null,
+                  "format": null,
+                  "mask": null,
+                  "minLength": null,
+                  "validationType": null,
+                  "validationPattern": null,
+                  "textAlign": null,
+                  "borderLeftWidth": null,
+                  "borderColor": null,
+                  "maxHeaderLength": null,
+                  "multiLine": null,
+                  "editable": null,
+                  "addable": null,
+                  "required": null,
+                  "unique": null,
+                  "excludeFromValue": null,
+                  "excludeFromExcel": null,
+                  "displaySumInFooter": null,
+                  "thousandSeparator": null,
+                  "withoutNegative": null,
+                  "disableAddRowOnEnter": null,
+                  "AddRowOnEnter": null,
+                  "sortable": null,
+                  "filterable": null,
+                  "instantFooterSumCalc": null,
+                  "hidden": null
+                },
+                {
+                  "key": "customname",
+                  "title": "نام مشتری",
+                  "columnType": "text",
+                  "newRowDefaultValue": null,
+                  "calendarType": null,
+                  "columnOrder": null,
+                  "binary": null,
+                  "buttons": [],
+                  "autoSelectAllOnFocus": null,
+                  "calculationExpression": null,
+                  "backgroundColor": null,
+                  "displayType": null,
+                  "showLabels": false,
+                  "autoSuggest": null,
+                  "includeValueInSearch": null,
+                  "autoSuggestMaxSuggestions": null,
+                  "itemsSource": null,
+                  "itemsSourceDataPath": null,
+                  "itemsSourceValueField": null,
+                  "itemsSourceLabelField": null,
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": null,
+                  "items": [],
+                  "evaluateExpressionOnEnter": null,
+                  "endAdornment": null,
+                  "objectDataPath": null,
+                  "displayEmpty": null,
+                  "valueIsNumber": null,
+                  "justDate": null,
+                  "addRowIndexInItems": null,
+                  "grow": null,
+                  "width": null,
+                  "maxLength": null,
+                  "maxValue": null,
+                  "decimalScale": null,
+                  "format": null,
+                  "mask": null,
+                  "minLength": null,
+                  "validationType": null,
+                  "validationPattern": null,
+                  "textAlign": null,
+                  "borderLeftWidth": null,
+                  "borderColor": null,
+                  "maxHeaderLength": null,
+                  "multiLine": null,
+                  "editable": null,
+                  "addable": null,
+                  "required": null,
+                  "unique": null,
+                  "excludeFromValue": null,
+                  "excludeFromExcel": null,
+                  "displaySumInFooter": null,
+                  "thousandSeparator": null,
+                  "withoutNegative": null,
+                  "disableAddRowOnEnter": null,
+                  "AddRowOnEnter": null,
+                  "sortable": null,
+                  "filterable": null,
+                  "instantFooterSumCalc": null,
+                  "hidden": null
+                },
+                {
+                  "key": "cguaranty",
+                  "title": "مبلغ ضمانت",
+                  "columnType": "text",
+                  "newRowDefaultValue": "",
+                  "calendarType": "",
+                  "columnOrder": 1,
+                  "binary": "",
+                  "buttons": [],
+                  "autoSelectAllOnFocus": "",
+                  "calculationExpression": "",
+                  "backgroundColor": "",
+                  "displayType": "raised",
+                  "showLabels": false,
+                  "autoSuggest": false,
+                  "includeValueInSearch": "",
+                  "autoSuggestMaxSuggestions": "",
+                  "itemsSource": "",
+                  "itemsSourceDataPath": "",
+                  "itemsSourceValueField": "value",
+                  "itemsSourceLabelField": "label",
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": "",
+                  "items": [],
+                  "evaluateExpressionOnEnter": "",
+                  "endAdornment": "",
+                  "objectDataPath": null,
+                  "displayEmpty": "",
+                  "valueIsNumber": "",
+                  "justDate": "",
+                  "addRowIndexInItems": "",
+                  "grow": false,
+                  "width": "",
+                  "maxLength": "",
+                  "maxValue": "",
+                  "decimalScale": "",
+                  "format": "",
+                  "mask": "",
+                  "minLength": "",
+                  "validationType": "",
+                  "validationPattern": "",
+                  "textAlign": "",
+                  "borderLeftWidth": null,
+                  "borderColor": null,
+                  "maxHeaderLength": "",
+                  "multiLine": "",
+                  "editable": "",
+                  "addable": true,
+                  "required": "",
+                  "unique": "",
+                  "excludeFromValue": "",
+                  "excludeFromExcel": "",
+                  "displaySumInFooter": "",
+                  "thousandSeparator": "",
+                  "withoutNegative": "",
+                  "disableAddRowOnEnter": "",
+                  "AddRowOnEnter": "",
+                  "sortable": "",
+                  "filterable": "",
+                  "instantFooterSumCalc": "",
+                  "hidden": ""
+                },
+                {
+                  "key": "salary",
+                  "title": "درآمد ماهیانه",
+                  "columnType": "text",
+                  "newRowDefaultValue": null,
+                  "calendarType": null,
+                  "columnOrder": 2,
+                  "binary": null,
+                  "buttons": [],
+                  "autoSelectAllOnFocus": null,
+                  "calculationExpression": null,
+                  "backgroundColor": null,
+                  "displayType": "raised",
+                  "showLabels": false,
+                  "autoSuggest": false,
+                  "includeValueInSearch": null,
+                  "autoSuggestMaxSuggestions": null,
+                  "itemsSource": null,
+                  "itemsSourceDataPath": null,
+                  "itemsSourceValueField": "value",
+                  "itemsSourceLabelField": "label",
+                  "itemsSourceArgs": [],
+                  "expressionValuePath": null,
+                  "items": [],
+                  "evaluateExpressionOnEnter": null,
+                  "endAdornment": null,
+                  "objectDataPath": null,
+                  "displayEmpty": null,
+                  "valueIsNumber": null,
+                  "justDate": null,
+                  "addRowIndexInItems": null,
+                  "grow": false,
+                  "width": null,
+                  "maxLength": null,
+                  "maxValue": null,
+                  "decimalScale": null,
+                  "format": null,
+                  "mask": null,
+                  "minLength": null,
+                  "validationType": null,
+                  "validationPattern": null,
+                  "textAlign": null,
+                  "borderLeftWidth": null,
+                  "borderColor": null,
+                  "maxHeaderLength": null,
+                  "multiLine": null,
+                  "editable": null,
+                  "addable": true,
+                  "required": null,
+                  "unique": null,
+                  "excludeFromValue": null,
+                  "excludeFromExcel": null,
+                  "displaySumInFooter": true,
+                  "thousandSeparator": null,
+                  "withoutNegative": null,
+                  "disableAddRowOnEnter": null,
+                  "AddRowOnEnter": null,
+                  "sortable": null,
+                  "filterable": null,
+                  "instantFooterSumCalc": null,
+                  "hidden": null
+                }
+              ],
+              "name": "datatable",
+              "hasValidation": false,
+              "isValid": true,
+              "errorMessage": "",
+              "rowClickable": true,
+              "rowSelectable": true,
+              "addEditFormDisplayType": "insideTable",
+              "newTitle": "",
+              "editButtonTitle": "edite",
+              "editableInChild": true,
+              "rowSelectExclusive": false,
+              "sumTitle": "salary",
+              "items": [],
+              "displayFooterRow": true,
+              "onRowClick": "async function(rowtb) {\nvar dtItems, rowtb, objectList, indexOfDt, Key, Value;\n\n\n  RisApp._._formStateSource.setFormState('submitMode', 'update');\n  RisApp._._formStateSource.setFormState('indexOfDt', RisApp._.get(rowtb, 'rowIndex'));\n  for(var Key in RisApp._.get(rowtb, 'row')){\n  var Value = RisApp._.get(rowtb, 'row')[Key];\n    RisApp._.setProperty(Key,\"defaultValue\", Value)\n\n  };\n\n}"
+            }
+          },
+          "xs": "12"
+        },
+        "layout5": {
+          "type": "ui:layoutgriditem",
+          "xs": "12",
+          "height": "2",
+          "properties": {
+            "layoutgridcontainer6": {
+              "type": "ui:layoutgridcontainer",
+              "isgrid": true,
+              "width": "12",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "height": "fit-content",
+              "properties": {
+                "layout6w210": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                },
+                "layout6w211": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                },
+                "layout6w212": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                },
+                "layout6w213": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                },
+                "layout6w214": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {}
+                },
+                "layout6w215": {
+                  "type": "ui:layoutgriditem",
+                  "height": "fit-content",
+                  "properties": {
+                    "textbox7": {
+                      "type": "ui:textbox",
+                      "title": "",
+                      "fullWidth": true,
+                      "yieldFocusOnEnterToNext": false,
+                      "titlerequired": " ",
+                      "uiFieldType": "number",
+                      "tabIndex": "",
+                      "name": "sumsalary",
+                      "hasValidation": false,
+                      "isValid": true,
+                      "errorMessage": "",
+                      "withoutHelperText": true,
+                      "disabled": true
+                    }
+                  }
+                }
+              },
+              "name": "layoutgridcontainer6",
+              "numberOfGridLayout": "6"
+            }
+          }
+        }
+      },
+      "name": "layoutgridcontainer7",
+      "numberOfGridLayout": "6"
+    },
+    "layoutgridcontainer1": {
+      "type": "ui:layoutgridcontainer",
+      "isgrid": true,
+      "width": "12",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "height": "fit-content",
+      "properties": {
+        "layout6w210": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {}
+        },
+        "layout6w211": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {}
+        },
+        "layout6w212": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {}
+        },
+        "layout6w213": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {
+            "buttoncloned2": {
+              "type": "ui:button",
+              "title": "چاپ",
+              "displayType": "raised",
+              "color": "secondary",
+              "tabIndex": "",
+              "name": "printbtn",
+              "hasValidation": false,
+              "isValid": true,
+              "errorMessage": "",
+              "icon": "print"
+            }
+          }
+        },
+        "layout6w214": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {
+            "buttoncloned1": {
+              "type": "ui:button",
+              "title": "تایید",
+              "displayType": "raised",
+              "color": "secondary",
+              "tabIndex": "",
+              "name": "btnsubmit",
+              "hasValidation": false,
+              "isValid": true,
+              "errorMessage": "",
+              "icon": "check_box",
+              "onClick": "async function() {\nvar dtItems, rowtb, objectList, indexOfDt, Key, Value;\n\n\n  dtItems = (RisApp._.getProperty(\"datatable\",\"items\"));\n  objectList = {'id1':(RisApp._.getProperty(\"accountcom\",\"rawValue\")), 'id2':(RisApp._.getProperty(\"accountcom\",\"defaultValue\")), 'num':(RisApp._.getProperty(\"num\",\"defaultValue\")), 'customname':(RisApp._.getProperty(\"customname\",\"defaultValue\")), 'cguaranty':(RisApp._.getProperty(\"cguaranty\",\"defaultValue\")), 'salary':(RisApp._.getProperty(\"salary\",\"defaultValue\"))};\n  indexOfDt = (RisApp._._formStateSource.getFormState('indexOfDt'));\n  if ((RisApp._._formStateSource.getFormState('submitMode')) == 'update') {\n    dtItems[((indexOfDt + 1) - 1)] = objectList;\n    RisApp._.setProperty(\"datatable\",\"items\", dtItems)\n  } else {\n    RisApp._.setProperty(\"datatable\",\"items\", RisApp._.mergelist([objectList], RisApp._.getProperty(\"datatable\",\"items\")))\n  }\n  RisApp._.setGroupProperty(\"input\",\"defaultValue\", '')\n\n}"
+            }
+          }
+        },
+        "layout6w215": {
+          "type": "ui:layoutgriditem",
+          "height": "fit-content",
+          "properties": {
+            "button2": {
+              "type": "ui:button",
+              "title": "انصراف",
+              "displayType": "raised",
+              "color": "secondary",
+              "tabIndex": "",
+              "name": "btncancel",
+              "hasValidation": false,
+              "isValid": true,
+              "errorMessage": "",
+              "fullWidth": false,
+              "mini": false,
+              "icon": "cancel"
+            }
+          }
+        }
+      },
+      "name": "layoutgridcontainer1",
+      "numberOfGridLayout": "6"
+    }
+  },
+  "className": "style",
+  "direction": "rtl",
+  "blockly": {
+    "code": "var dtItems, rowtb, objectList, indexOfDt, Key, Value;\n\n\nRisApp._.attachEvent('btnsubmit', 'Click', async function() {\nvar dtItems, rowtb, objectList, indexOfDt, Key, Value;\n\n\n  dtItems = (RisApp._.getProperty(\"datatable\",\"items\"));\n  objectList = {'id1':(RisApp._.getProperty(\"accountcom\",\"rawValue\")), 'id2':(RisApp._.getProperty(\"accountcom\",\"defaultValue\")), 'num':(RisApp._.getProperty(\"num\",\"defaultValue\")), 'customname':(RisApp._.getProperty(\"customname\",\"defaultValue\")), 'cguaranty':(RisApp._.getProperty(\"cguaranty\",\"defaultValue\")), 'salary':(RisApp._.getProperty(\"salary\",\"defaultValue\"))};\n  indexOfDt = (RisApp._._formStateSource.getFormState('indexOfDt'));\n  if ((RisApp._._formStateSource.getFormState('submitMode')) == 'update') {\n    dtItems[((indexOfDt + 1) - 1)] = objectList;\n    RisApp._.setProperty(\"datatable\",\"items\", dtItems)\n  } else {\n    RisApp._.setProperty(\"datatable\",\"items\", RisApp._.mergelist([objectList], RisApp._.getProperty(\"datatable\",\"items\")))\n  }\n  RisApp._.setGroupProperty(\"input\",\"defaultValue\", '')\n\n});\nRisApp._.attachEvent('datatable', 'RowClick', async function(rowtb) {\nvar dtItems, rowtb, objectList, indexOfDt, Key, Value;\n\n\n  RisApp._._formStateSource.setFormState('submitMode', 'update');\n  RisApp._._formStateSource.setFormState('indexOfDt', RisApp._.get(rowtb, 'rowIndex'));\n  for(var Key in RisApp._.get(rowtb, 'row')){\n  var Value = RisApp._.get(rowtb, 'row')[Key];\n    RisApp._.setProperty(Key,\"defaultValue\", Value)\n\n  };\n\n});\n",
+    "xml": "<xml xmlns=\"http://www.w3.org/1999/xhtml\"><variables><variable type=\"\" id=\"Nwpw@W1geg6RS`#}6Y!2\">dtItems</variable><variable type=\"\" id=\"rOH}5)c$wBK?G+3LUGbA\">rowtb</variable><variable type=\"\" id=\"M^J|7U+O2nF;bE5qSe/|\">objectList</variable><variable type=\"\" id=\"$Q`XUS|+oX0W%/QM,@=x\">indexOfDt</variable><variable type=\"\" id=\"WCun552TnB)L7CX=dSsi\">Key</variable><variable type=\"\" id=\"Dfp1OMv)KfCzl3EJQYBz\">Value</variable></variables><block type=\"event_attach\" id=\"!z+D9%fK(Aw#ny9I7]03\" x=\"29\" y=\"-807\"><field name=\"eventName\">Click</field><field name=\"formFieldName\">btnsubmit</field><statement name=\"DO0\"><block type=\"variables_set\" id=\"B[b~?2[IhdSO41-(sLd?\"><field name=\"VAR\" id=\"Nwpw@W1geg6RS`#}6Y!2\" variabletype=\"\">dtItems</field><value name=\"VALUE\"><block type=\"get_property\" id=\"+arMOl;1}++u(|YOk!o(\"><field name=\"propertyName\">items</field><field name=\"formFieldName\">datatable</field></block></value><next><block type=\"variables_set\" id=\"~n~Oi!Uo86$oYPcFm`1v\"><field name=\"VAR\" id=\"M^J|7U+O2nF;bE5qSe/|\" variabletype=\"\">objectList</field><value name=\"VALUE\"><block type=\"object_new\" id=\",p3Y!SRod#^f#sNJ$K2r\"><mutation items=\"6\"></mutation><value name=\"ADDKEY0\"><block type=\"text\" id=\"qs!X;rAG88d{vQo#e`_-\"><field name=\"TEXT\">id1</field></block></value><value name=\"ADDVAL0\"><block type=\"get_property\" id=\"=kY?AU95Vsq_LJr@FC(8\"><field name=\"propertyName\">rawValue</field><field name=\"formFieldName\">accountcom</field></block></value><value name=\"ADDKEY1\"><block type=\"text\" id=\"I;q.e4YAf=?6J`glQ(zC\"><field name=\"TEXT\">id2</field></block></value><value name=\"ADDVAL1\"><block type=\"get_property\" id=\"[Z*k;u|Df[GVi+tB}[Ff\"><field name=\"propertyName\">defaultValue</field><field name=\"formFieldName\">accountcom</field></block></value><value name=\"ADDKEY2\"><block type=\"text\" id=\"LG5NEW9BNjO@t_PV)?K+\"><field name=\"TEXT\">num</field></block></value><value name=\"ADDVAL2\"><block type=\"get_property\" id=\"mHhd}!R6R)O6Ng)8l~K`\"><field name=\"propertyName\">defaultValue</field><field name=\"formFieldName\">num</field></block></value><value name=\"ADDKEY3\"><block type=\"text\" id=\"F#9OE*16D,W16-WIp4Ci\"><field name=\"TEXT\">customname</field></block></value><value name=\"ADDVAL3\"><block type=\"get_property\" id=\"CPWwuW83ABrg?4f]_Fbt\"><field name=\"propertyName\">defaultValue</field><field name=\"formFieldName\">customname</field></block></value><value name=\"ADDKEY4\"><block type=\"text\" id=\"u!]AU/{,.`axTgfWwRk?\"><field name=\"TEXT\">cguaranty</field></block></value><value name=\"ADDVAL4\"><block type=\"get_property\" id=\"#NAFp*7QTq-6u-c|49C#\"><field name=\"propertyName\">defaultValue</field><field name=\"formFieldName\">cguaranty</field></block></value><value name=\"ADDKEY5\"><block type=\"text\" id=\"aGpe2{5v/f%P_#Q-~^{r\"><field name=\"TEXT\">salary</field></block></value><value name=\"ADDVAL5\"><block type=\"get_property\" id=\"BZ@^mdkMC]~[RnR=AM]O\"><field name=\"propertyName\">defaultValue</field><field name=\"formFieldName\">salary</field></block></value></block></value><next><block type=\"variables_set\" id=\"-|*Hzz__PLPb-9aY1$Vf\"><field name=\"VAR\" id=\"$Q`XUS|+oX0W%/QM,@=x\" variabletype=\"\">indexOfDt</field><value name=\"VALUE\"><block type=\"get_formstorage_variable\" id=\"eK-uJ}^$_n|gK{`Nd=I|\"><value name=\"key\"><shadow type=\"text\" id=\"u45CNV#]==.#k2!|t0+S\"><field name=\"TEXT\">indexOfDt</field></shadow></value></block></value><next><block type=\"controls_if\" id=\"q(azBs}.MWS2[F=hUTxW\"><mutation else=\"1\"></mutation><value name=\"IF0\"><block type=\"logic_compare\" id=\"Do6Tt43fdJ=D)+zt3?J^\"><field name=\"OP\">EQ</field><value name=\"A\"><block type=\"get_formstorage_variable\" id=\"tB]QVqu:7$`J*Pqw`IuF\"><value name=\"key\"><shadow type=\"text\" id=\"5)hhxLI|rJZVhJQ4_:=l\"><field name=\"TEXT\">submitMode</field></shadow></value></block></value><value name=\"B\"><block type=\"text\" id=\"v[_4@ovk|ieYw*~h8@1G\"><field name=\"TEXT\">update</field></block></value></block></value><statement name=\"DO0\"><block type=\"lists_setIndex\" id=\"w%*Xhv?.ttTXk`yQE%R[\"><mutation at=\"true\"></mutation><field name=\"MODE\">SET</field><field name=\"WHERE\">FROM_START</field><value name=\"LIST\"><block type=\"variables_get\" id=\"_Tkvn{eH+?Mj`C%*%EDp\"><field name=\"VAR\" id=\"Nwpw@W1geg6RS`#}6Y!2\" variabletype=\"\">dtItems</field></block></value><value name=\"AT\"><block type=\"math_arithmetic\" id=\"OW/NCcwovo]`.iYONg(:\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"variables_get\" id=\"cUC4,bB2e|U/8_!}e=JG\"><field name=\"VAR\" id=\"$Q`XUS|+oX0W%/QM,@=x\" variabletype=\"\">indexOfDt</field></block></value><value name=\"B\"><block type=\"math_number\" id=\"0#080Gj;%w5@C-d_pz)H\"><field name=\"NUM\">1</field></block></value></block></value><value name=\"TO\"><block type=\"variables_get\" id=\"CN7rr(dZhEPw7PG~)(y^\"><field name=\"VAR\" id=\"M^J|7U+O2nF;bE5qSe/|\" variabletype=\"\">objectList</field></block></value><next><block type=\"set_property\" id=\"?^!|)iD+}]`H^4]X69k+\"><field name=\"callMode\">async</field><field name=\"formFieldName\">datatable</field><field name=\"propertyName\">items</field><value name=\"propertyValue\"><block type=\"variables_get\" id=\"gtKwdiyOdiCM|/r}p}/y\"><field name=\"VAR\" id=\"Nwpw@W1geg6RS`#}6Y!2\" variabletype=\"\">dtItems</field></block></value></block></next></block></statement><statement name=\"ELSE\"><block type=\"set_property\" id=\"^`p1ydlgXxQi|_t+$c3u\"><field name=\"callMode\">async</field><field name=\"formFieldName\">datatable</field><field name=\"propertyName\">items</field><value name=\"propertyValue\"><block type=\"lists_merge\" id=\")wFhF|yZ=TqbuJV2Gv5~\"><value name=\"target\"><block type=\"get_property\" id=\"hR.0=wL2I:/Cj:mvnIY}\"><field name=\"propertyName\">items</field><field name=\"formFieldName\">datatable</field></block></value><value name=\"source\"><block type=\"lists_create_with\" id=\"5j058u-@gwxJlC;*$n32\"><mutation items=\"1\"></mutation><value name=\"ADD0\"><block type=\"variables_get\" id=\"8X:L}Z:KUJQo;(Cu*x0_\"><field name=\"VAR\" id=\"M^J|7U+O2nF;bE5qSe/|\" variabletype=\"\">objectList</field></block></value></block></value></block></value></block></statement><next><block type=\"set_property_group\" id=\"a]hW[jER?=f89js%E2h_\"><field name=\"formFieldName\">input</field><field name=\"propertyName\">defaultValue</field><value name=\"propertyValue\"><block type=\"text\" id=\"L^u9sqZqD|)P=Cgj=)es\"><field name=\"TEXT\"></field></block></value></block></next></block></next></block></next></block></next></block></statement><next><block type=\"event_attach\" id=\"`(9d1G4}KV4G$o@QWA!k\"><field name=\"eventName\">RowClick</field><field name=\"formFieldName\">datatable</field><value name=\"formEventVarName\"><block type=\"variables_get\" id=\"NZ8-UtGiESJ)A2S75Yz@\"><field name=\"VAR\" id=\"rOH}5)c$wBK?G+3LUGbA\" variabletype=\"\">rowtb</field></block></value><statement name=\"DO0\"><block type=\"set_formstorage_variable\" id=\")k;I?zx)lpRs5Wk`VxZt\"><value name=\"key\"><shadow type=\"text\" id=\"ssj[DV#*Sy)ku^lHw63B\"><field name=\"TEXT\">submitMode</field></shadow></value><value name=\"value\"><shadow type=\"text\" id=\"q9~JSae|R?MjN(|/kCst\"><field name=\"TEXT\">update</field></shadow></value><next><block type=\"set_formstorage_variable\" id=\")}0Zcva/70VXtaZ#`-a~\"><value name=\"key\"><shadow type=\"text\" id=\"l84,qw?sgA(?@}DQyp~5\"><field name=\"TEXT\">indexOfDt</field></shadow></value><value name=\"value\"><shadow type=\"text\" id=\"}-v=XM^hKvGpcQBr8(K0\"><field name=\"TEXT\">value</field></shadow><block type=\"object_get\" id=\"Hd~/6U/xBBUGu)gw*Pf,\"><value name=\"target\"><block type=\"variables_get\" id=\"*FxBI$[Nn.Gep#P:5mzV\"><field name=\"VAR\" id=\"rOH}5)c$wBK?G+3LUGbA\" variabletype=\"\">rowtb</field></block></value><value name=\"path\"><shadow type=\"text\" id=\"T#Zj^WZ@T3a3/Iw@SR2%\"><field name=\"TEXT\">rowIndex</field></shadow></value></block></value><next><block type=\"controls_forEachKeyValue\" id=\"NJQ?:5_x13g?djVL}z|Q\"><field name=\"RESPONSE_KEY_VAR\" id=\"WCun552TnB)L7CX=dSsi\" variabletype=\"\">Key</field><field name=\"RESPONSE_VALUE_VAR\" id=\"Dfp1OMv)KfCzl3EJQYBz\" variabletype=\"\">Value</field><value name=\"arrayField\"><block type=\"object_get\" id=\"zu2la|NH587iP5)!G3V-\"><value name=\"target\"><block type=\"variables_get\" id=\"rh$/7y`TK|AvQ/|owj$W\"><field name=\"VAR\" id=\"rOH}5)c$wBK?G+3LUGbA\" variabletype=\"\">rowtb</field></block></value><value name=\"path\"><shadow type=\"text\" id=\"$lwxmuMU/s]iL{VDcHJ!\"><field name=\"TEXT\">row</field></shadow></value></block></value><statement name=\"DO0\"><block type=\"set_property_var\" id=\"]ncOwK`s?Wa^aW}^i74L\"><field name=\"callMode\">async</field><field name=\"propertyName\">defaultValue</field><value name=\"formFieldName\"><block type=\"variables_get\" id=\"{tUjG![ar|]-?,4+PQRp\"><field name=\"VAR\" id=\"WCun552TnB)L7CX=dSsi\" variabletype=\"\">Key</field></block></value><value name=\"propertyValue\"><block type=\"variables_get\" id=\"`LSPvWPVk8qtmT9:y0_j\"><field name=\"VAR\" id=\"Dfp1OMv)KfCzl3EJQYBz\" variabletype=\"\">Value</field></block></value></block></statement></block></next></block></next></block></statement></block></next></block></xml>"
+  },
+  "langs": [
+    {
+      "key": "btn1.title",
+      "fa-IR": "جستجو"
+    },
+    {
+      "key": "box1.title",
+      "fa-IR": "شماره مصوبه"
+    },
+    {
+      "key": "textboxcloned1.title",
+      "fa-IR": "شماره مشتری"
+    },
+    {
+      "key": "textbox6.title",
+      "fa-IR": "عنوان گیرنده تسهیلات"
+    },
+    {
+      "key": "button13.title",
+      "fa-IR": "chang language"
+    },
+    {
+      "key": "datetimebox11.title",
+      "fa-IR": "تاریخ اخذ مصوبه"
+    },
+    {
+      "key": "textboxcloned3.title",
+      "fa-IR": "نوع تسهیلات"
+    },
+    {
+      "key": "textboxcloned5.title",
+      "fa-IR": "مبلغ تسهیلات منصوب"
+    },
+    {
+      "key": "button13.title",
+      "fa-IR": "chang language"
+    },
+    {
+      "key": "datetimebox11.title",
+      "fa-IR": "تاریخ اتمام اعتبار"
+    },
+    {
+      "key": "combobox3.title",
+      "fa-IR": "نوع جستجو"
+    },
+    {
+      "key": "textboxcloned2.title",
+      "fa-IR": "درآمد ماهینه"
+    },
+    {
+      "key": "textboxcloned4.title",
+      "fa-IR": "مبلغ ضمانت"
+    },
+    {
+      "key": "textboxcloned6.title",
+      "fa-IR": "شماره حساب"
+    },
+    {
+      "key": "datatable13.excelTooltip",
+      "fa-IR": "Save as Excel"
+    },
+    {
+      "key": "datatable13.printTooltip",
+      "fa-IR": "Quick Print"
+    },
+    {
+      "key": "guaranty1.title",
+      "fa-IR": "مبلغ ضمانت"
+    },
+    {
+      "key": "datatable.excelTooltip",
+      "fa-IR": "Save as Excel"
+    },
+    {
+      "key": "datatable.printTooltip",
+      "fa-IR": "Quick Print"
+    },
+    {
+      "key": "printbtn.title",
+      "fa-IR": "چاپ"
+    },
+    {
+      "key": "btnsubmit.title",
+      "fa-IR": "تایید"
+    },
+    {
+      "key": "button2.title",
+      "fa-IR": "انصراف"
+    },
+    {
+      "key": "searchcom.title",
+      "fa-IR": "نوع جستجو"
+    },
+    {
+      "key": "customname.title",
+      "fa-IR": "نام مشتری"
+    },
+    {
+      "key": "salary.title",
+      "fa-IR": "درآمد ماهینه"
+    },
+    {
+      "key": "cguaranty.title",
+      "fa-IR": "مبلغ ضمانت"
+    },
+    {
+      "key": "btncancel.title",
+      "fa-IR": "انصراف"
+    },
+    {
+      "key": "account.title",
+      "fa-IR": "شماره حساب"
+    },
+    {
+      "key": "searchbtn.title",
+      "fa-IR": "جستجو"
+    },
+    {
+      "key": "accountcom.title",
+      "fa-IR": "شماره حساب"
+    },
+    {
+      "key": "aboutac.title",
+      "fa-IR": "شرح نوع حساب"
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "input"
+    },
+    {
+      "groupId": "get"
+    }
+  ]
+}
